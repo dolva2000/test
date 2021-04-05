@@ -95,7 +95,7 @@ export default function index() {
             <p>
               Designed and Developed by{" "}
               <a href="https://uideck.com" rel="nofollow">
-                UIdeck
+                Mbok'art
               </a>
             </p>
           </div>

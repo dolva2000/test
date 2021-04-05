@@ -7,8 +7,8 @@ export default function index() {
         <div className="row justify-content-center">
           <div className="col-lg-6">
             <div className="section_title text-center pb-25">
-              <h5 className="sub_title">Pricing Plans</h5>
-              <h4 className="main_title">Choose Your Plan</h4>
+              <h5 className="sub_title">Notre precing</h5>
+              <h4 className="main_title">Voila Notre Plan</h4>
             </div>
           </div>
         </div>
@@ -30,7 +30,7 @@ export default function index() {
                     aria-controls="monthly"
                     aria-selected="true"
                   >
-                    Monthly
+                    Mois
                   </a>
                 </li>
                 <li className="nav-item">
@@ -42,7 +42,7 @@ export default function index() {
                     aria-controls="yearly"
                     aria-selected="false"
                   >
-                    Yearly
+                    Annee
                   </a>
                 </li>
               </ul>
@@ -157,9 +157,9 @@ export default function index() {
                         <div className="pricing_content">
                           <span className="pricing_price">$99.00</span>
                           <p>
-                            Lorem ipsum dolor sit am consetetur sadi aliquyam
-                            erat sed diam voluptua vero eos accusam et justo duo
-                            dolores{" "}
+                            Accédez et modifiez vos données Acomba de n'importe
+                            où via le web, sans avoir à utiliser votre logiciel
+                            Acombas{" "}
                           </p>
                           <a href="" className="main-btn">
                             Choose Plan

@@ -77,7 +77,7 @@ export default function index() {
               <div className="blog_content">
                 <ul className="blog_meta d-flex justify-content-between">
                   <li>
-                    By: <a href="#">Musharof Chowdury</a>
+                    By: <a href="#">Mushar howdury</a>
                   </li>
                   <li>15 June 2024</li>
                 </ul>

@@ -7,7 +7,7 @@ export default function index() {
         <div className="row justify-content-center">
           <div className="col-lg-6">
             <div className="section_title text-center pb-25">
-              <h5 className="sub_title">Blog</h5>
+              <h5 className="sub_title">Blogs</h5>
               <h4 className="main_title">Dolva fsorum</h4>
             </div>
           </div>

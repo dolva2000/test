@@ -51,6 +51,8 @@ export default function index() {
                 <ul className="blog_meta d-flex justify-content-between">
                   <li>
                     By: <a href="#">Dolva</a>
+                  </li>                <li>
+                    By: <a href="#">Dolva</a>
                   </li>
                   <li>15 June 2024</li>
                 </ul>

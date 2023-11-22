@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta charSet="utf-8" />
 
-        <title>Plain - Multipurpose Bootstrap Template</title>
+        <title>Dolva - Multipurpose Bootstrap Template</title>
 
         <meta name="description" content="" />
     <meta name="description" content="" />

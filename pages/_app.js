@@ -10,6 +10,7 @@ function MyApp({ Component, pageProps }) {
         <title>Plain - Multipurpose Bootstrap Template</title>
 
         <meta name="description" content="" />
+    <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <link rel="shortcut icon" href="images/favicon.png" type="image/png" />

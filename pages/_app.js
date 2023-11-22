@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta charSet="utf-8" />
 
-        <title>Dolva - Multipurpose  </title>
+        <title>Dolva   </title>
 
         <meta name="description" content="" />
     <meta name="description" content="" />

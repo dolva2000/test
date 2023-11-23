@@ -49,7 +49,7 @@ export default function index() {
                       <div className="single_form">
                         <textarea
                           name="message"
-                          placeholder="Message"
+                          placeholder="Messages"
                         ></textarea>
                       </div>
                     </div>

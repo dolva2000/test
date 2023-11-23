@@ -56,7 +56,7 @@ export default function index() {
                     <p className="form-message"></p>
                     <div className="col-md-12">
                       <div className="single_form">
-                        <button className="main-btn">Submit</button>
+                        <button className="main-btn">Submits</button>
                       </div>
                     </div>
                   </div>
